@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/c42cf4d9-9df3-4272-95e3-507ca12b3b94" width="100">
+
 ## 나 기숙사에서 움직이기 싫어.
 이 프로젝트는 교내 기숙사 (319호)에서 불편한 점을 개선하기 위해 개발하게 된 프로젝트입니다.
 
